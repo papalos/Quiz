@@ -1,0 +1,6 @@
+c:\users\sergey\documents\visual studio 2017\Projects\Fruits\Fruits\bin\Debug\Fruits.exe.config
+c:\users\sergey\documents\visual studio 2017\Projects\Fruits\Fruits\bin\Debug\Fruits.exe
+c:\users\sergey\documents\visual studio 2017\Projects\Fruits\Fruits\bin\Debug\Fruits.pdb
+c:\users\sergey\documents\visual studio 2017\Projects\Fruits\Fruits\obj\Debug\Fruits.csprojResolveAssemblyReference.cache
+c:\users\sergey\documents\visual studio 2017\Projects\Fruits\Fruits\obj\Debug\Fruits.exe
+c:\users\sergey\documents\visual studio 2017\Projects\Fruits\Fruits\obj\Debug\Fruits.pdb
